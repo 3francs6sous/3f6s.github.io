@@ -8,34 +8,11 @@ description: Economie sociale et solidaire, Insertion, seconde main.
 
 <h1 style="text-align: center;">Bienvenue chez 3 Francs 6 Sous</h1>
 
-Notre nouveau bureau !
-
 <div class="row">
     <div class="col d-flex justify-content-center">
-        <div class="card" style="width: 14rem;">
-            <img src="/assets/img/julien.jpeg" class="card-img-top" alt="">
-            <div class="card-body">
-                <a href="https://www.linkedin.com/in/julien-gautier-a812976/"><h5 class="card-title">Julien GAUTIER</h5></a>
-                <p class="card-text">Président</p>
+            <h3 class="alt-h3 mb-3">{{ org.name }}</h3>
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" width="800" height="450" src="//embed.francetv.fr/f5fece7ada41513e215e5a709ac5e06b" frameborder="0" scrolling="no" allowfullscreen></iframe>
             </div>
-        </div>
-    </div>
-    <div class="col d-flex justify-content-center">
-        <div class="card" style="width: 14rem;">
-            <img src="/assets/img/david.jpeg" class="card-img-top" alt="">
-            <div class="card-body">
-                <a href="https://www.linkedin.com/in/david-joulin-9b629790/"><h5 class="card-title">David JOULIN</h5></a>
-                <p class="card-text">Trésorier</p>
-            </div>
-        </div>
-    </div>
-    <div class="col d-flex justify-content-center">
-        <div class="card" style="width: 14rem;">
-            <img src="/assets/img/manuela.jpg" class="card-img-top" alt="">
-            <div class="card-body">
-                <a href=""><h5 class="card-title">Manuela ROSSIGNOL</h5></a>
-                <p class="card-text">Secrétaire</p>
-            </div>
-        </div>
-    </div>
+          </div>
 </div>

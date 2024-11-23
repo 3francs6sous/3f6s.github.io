@@ -1,22 +1,13 @@
 # Add publications concerning technologies and agricultures
-- name: "1917"
-  content: "Arrivée de la famille JOULIN, Alcide et sa femme Thèrese vont exploiter la ferme jusqu'en 1955." 
-  image: /assets/img/alcide.jpg
-- name: "1956"
-  content: "Françis JOULIN (3ème génération) reprend la ferme avec sa femme Michele, il enclenche un mécanisme d’innovation agronomique globale de l’exploitation" 
-  image: /assets/img/francis.jpg
-- name: "1983"
-  content: "création du GAEC JOULIN Père et Fils avec l'arrivée du fils ainé Christian (4eme génération)." 
-  image: /assets/img/christian.jpg
-- name: "1994"
-  content: "Départ de Françis et arrivée des 2 fréres Laurent et Dominique (4eme génération)." 
-  image: /assets/img/3_freres.jpg
-- name: "2017"
-  content: "Arrêt du GAEC JOULIN, Laurent poursuit seul l'exploitation." 
-  image: /assets/img/laurent_seul.jpg
-- name: "2020"
-  content: "Arrêt de l'exploitation et reprise du site par la 5eme generation au travers de la SCI des chênes verts." 
-  image: /assets/img/david.jpg
+- name: Julien GAUTIER
+  content: "Président" 
+  image: /assets/img/julien.jpeg
+- name: David JOULIN
+  content: "Trésorier" 
+  image: /assets/img/david.jpeg
+- name: Manuela ROSSIGNOL
+  content: "Secretaire" 
+  image: /assets/img/manuela.jpg
 
 
 
