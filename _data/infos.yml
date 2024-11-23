@@ -1,12 +1,12 @@
 # Add publications concerning technologies and agricultures
 - name: Julien GAUTIER
-  content: "Président" 
+  content: "Président (Developpement / Partenariat / Relations publiques)" 
   image: /assets/img/julien.jpeg
 - name: David JOULIN
-  content: "Trésorier" 
+  content: "Trésorier (Financement / Gestion / Numérique)" 
   image: /assets/img/david.jpeg
 - name: Manuela ROSSIGNOL
-  content: "Secretaire" 
+  content: "Secretaire (Opérationnel)"
   image: /assets/img/manuela.jpg
 
 
