@@ -1,6 +1,6 @@
 # global settings
 title: "3 Francs 6 Sous"
-description: "Building together a new innovative ecosystem for farms"
+description: "Objets de seconde main economique et solidaire"
 permalink: "/stories/:title"
 url: https://3francs6sous.github.io
 relative_permalinks: false
