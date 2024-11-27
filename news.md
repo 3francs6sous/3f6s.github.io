@@ -14,7 +14,7 @@ description: Nouvelles !
         {{ hi.name }}
         <h2 class="alt-h3 mb-2">
           {{ hi.content }}
-          <a href="{{ hi.link }}" target="_blank">Plus d'infos {% octicon chevron-right height:18 class:"d-inline fill-blue ml-1" %}</a>
+          <a href="{{ hi.link }}" target="_blank">Plus d'infos</a>
         </h2>
       </div>
       {% endfor %}
