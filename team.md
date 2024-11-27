@@ -3,10 +3,7 @@ title: Equipe
 layout: home
 description: "L'équipe"
 ---
-<link href="https://cdn.jsdelivr.net/npm/modern-normalize@v2.0.0/modern-normalize.min.css" rel="stylesheet">
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
-
-# Notre nouveau bureau !
+# Le bureau, élu le 09/12/2024
 
 <div class="row">
     {% for hi in site.data.infos %}
