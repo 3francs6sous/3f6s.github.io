@@ -3,7 +3,7 @@ title: Equipe
 layout: home
 description: "L'équipe"
 ---
-# Le bureau, élu le 09/12/2024
+<h1 style="text-align: center;">Le bureau, élu le 09/12/2024</h1>
 
 <div class="row">
     {% for hi in site.data.infos %}
