@@ -5,13 +5,15 @@
 - name: Manuela ROSSIGNOL
   content: "Vice-Présidente"
   image: /assets/img/manuela.jpg
-- name: David JOULIN
-  content: "Trésorier" 
-  image: /assets/img/david.jpeg
-- name: Patrick VILLENEUVE
-  content: "Secrétaire"
+- name: Monique TANTIN
+  content: "Vice-Présidente"
   image: /assets/img/person.png
-
+- name: Patricia CAILLAUD
+  content: "Trésorière"
+  image: /assets/img/person.png
+- name: David JOULIN
+  content: "Secrétaire" 
+  image: /assets/img/david.jpeg
 
 
 
