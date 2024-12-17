@@ -8,14 +8,13 @@ description: Mobilisation générale
 <h1 style="text-align: center;">Pourquoi on déménage et on ré-organise</h1>
 
 <ul class="list-center">
-   <li>Les locaux actuels de l'association ne sont pas aux normes pour acceuillir du public</li>
-   <li>Les travaux ne sont pas possibles dans les locaux actuels (prix, acces)</li>
-   <li>Les objets sont trop nombreux et il faut ré-organiser les rayons</li>
+   <li>Les locaux actuels de l'association ne sont plus aux normes pour acceuillir du public.</li>
+   <li>Les objets sont trop nombreux et il faut ré-organiser les rayons.</li>
    <li>L'affichage des prix n'est pas présent</li>
 </ul>
 
 <h1 style="text-align: center;">On vient avec quoi ?</h1>
-Le repas est compris ainsi que le thé / café et l'ambiance pour garantir la motivation !
+Le repas est compris ainsi que le thé / café et l'ambiance intergalactique pour garantir la motivation !
 <br>
 Gants et vieux habits sont conseillés
 <br>
@@ -35,10 +34,11 @@ Gants et vieux habits sont conseillés
                </div> 
   </div>
 
-
 <h1 style="text-align: center;">On gagne quoi à venir aider ?</h1>
 Déjà, notre gratitude et ta première bonne action de 2025.<br>
-Mais comme la reine Amidala est généreuse, ta participation donnera droit à une adhésion avec 20 € de bons d'achats / jour de participation sur une sélection d'articles de l'association !
+Mais comme la reine Amidala est généreuse, ta participation donnera droit à une adhésion à l'association avec 20 € de bons d'achats* / jour de participation.
+
+*bons d'achats valable sur tout le stock pour un minimum de 30 € d'achats
 <br>
 
 <h2 style="text-align: center;">OK, je viens comme bénévole</h2>
