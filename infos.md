@@ -3,10 +3,9 @@ layout: home
 title: 3 Francs 6 Sous
 description: Economie sociale et solidaire, Insertion, seconde main.
 ---
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-
 <h1 style="text-align: center;">Infos pratiques</h1>
-<h2 style="text-align: center;">Horaires</h2>
+<h2 style="text-align: center;" class="text-danger">Fermeture exceptionnelle jusqu'au 19 Janvier 2025 pour travaux</h2>
+<h2 style="text-align: center;">Horaires hebdomadaires</h2>
 <table class="table table-striped table-bordered">
   <thead>
     <tr>

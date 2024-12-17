@@ -3,8 +3,6 @@ layout: home
 title: News
 description: Nouvelles !
 ---
-<h1 style="text-align: center;">Dernières infos !</h1>
-
 <section id="news" class="mini-section mt-6 bg-gray-light">
   <div class="container-lg p-responsive">
     <div class="mt-md-12 clearfix gutter-spacious">

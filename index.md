@@ -10,7 +10,15 @@ description: Economie sociale et solidaire, Insertion, seconde main.
 
 <br>
 
-<h2 class="text-danger" style="text-align: center;">Mobilisation générale à partir du 6 Janvier</h2>
+<h2 style="text-align: center;" class="text-danger">Fermeture exceptionnelle jusqu'au 19 Janvier 2025 pour travaux</h2>
+
+<h2 style="text-align: center;"><a href="{{ "/general-event" | relative_url}}" class="text-danger">Bénévoles => Mobilisation générale à partir du 6 Janvier !</a></h2>
+
+<div>
+       <p class="text-center">
+          <a href="https://forms.gle/8KyWH6TBHg7h22dk7" target="_blank" class="btn btn-primary">Je m'inscris !</a>
+        </p>
+      </div>
 
 <div class="row">
     <div class="col d-flex justify-content-center">
@@ -21,8 +29,4 @@ description: Economie sociale et solidaire, Insertion, seconde main.
           </div>
 </div>
 
-<div>
-        <p class="text-center">
-          <a href="https://forms.gle/8KyWH6TBHg7h22dk7" target="_blank" class="btn btn-primary">Je m'inscris !</a>
-        </p>
-</div>
+  
